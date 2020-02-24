@@ -1,0 +1,23 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "file:ffmpeg",
+    "m3u8stream": "^0.6.5",
+    "node": "^13.8.0",
+    "node-gyp": "^6.1.0",
+    "node-opus": "^0.3.3",
+    "rebuild": "^0.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "youtube-audio-stream": "^0.3.5",
+    "ytdl": "^0.13.1",
+    "ytdl-core": "^1.0.9"
+  }
+}
